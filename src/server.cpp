@@ -6,7 +6,7 @@
 
 int main() {
     // Disable output buffering
-    setbuf(stdout, NULL);f
+    setbuf(stdout, NULL);
 
     // You can use print statements as follows for debugging, they'll be visible when running tests.
     std::cout << "Logs from your program will appear here!" << std::endl;
